@@ -1,0 +1,13 @@
+name: inferential-stats
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - scipy
+  - numpy
+  - python
+  - matplotlib
+  - seaborn
+  - r-base
+  - r-irkernel
